@@ -1,0 +1,4 @@
+model,test_cindex,loco_event_weighted_cindex,interpretation
+Elastic Net Cox,0.6513,0.6380,Selected final model because it was sparse interpretable and externally validated
+DeepSurv,0.6469,0.6355,Similar to Elastic Net Cox but did not clearly outperform it
+Random Survival Forest,0.6352,0.6206,Reasonable performance but lower than Elastic Net Cox and DeepSurv

@@ -1,0 +1,12 @@
+item,value
+Input expression matrix,Top 5000 MAD genes
+Total patients,3818
+Total events,1587
+Training patients,2685
+Test patients,1133
+Best alpha,0.1
+Final lambda,0.1838081
+Training model selected genes,327
+Frozen full-data model selected genes,284
+Internal train C-index,0.7390
+Internal test C-index,0.6513

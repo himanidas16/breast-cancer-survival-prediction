@@ -1,0 +1,42 @@
+# Raw and processed data
+# Keep these out of public GitHub.
+data/raw/
+data/processed/
+clinical/
+expression_matrices/
+
+# Large/private biomedical files
+*.rds
+*.RData
+*.rda
+*.CEL
+*.CEL.gz
+*.idat
+*.xlsx
+*.gz
+*.zip
+
+# Patient/sample-level outputs
+*clinical*.csv
+*manifest*.csv
+*predictions*.csv
+*risk_scores*.csv
+*patient*.csv
+*sample*.csv
+
+# Logs and private notes
+*.log
+*_private*
+my_pvt*
+Research_Reports*
+*.pdf
+
+# R/Python cache
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store

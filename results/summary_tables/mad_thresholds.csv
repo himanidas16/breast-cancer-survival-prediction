@@ -1,0 +1,4 @@
+filter_set,genes_retained,mad_threshold,use
+Top 2500 MAD,2500,0.5349023,Sensitivity analysis
+Top 5000 MAD,5000,0.4124595,Primary modelling set
+Top 7500 MAD,7500,0.3336841,Sensitivity analysis

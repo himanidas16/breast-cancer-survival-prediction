@@ -1,0 +1,15 @@
+item,value
+External dataset,SCAN-B / GSE96058
+Total expression columns,3409
+Technical replicates removed,136
+Final validation patients,3273
+Events,336
+Censored,2937
+Frozen model genes,284
+Frozen genes available in SCAN-B,276
+Frozen genes missing in SCAN-B,8
+External C-index,0.7163
+Log-rank p-value,1.107831e-31
+Low-risk group,1091 patients and 34 events
+Intermediate-risk group,1091 patients and 98 events
+High-risk group,1091 patients and 204 events
